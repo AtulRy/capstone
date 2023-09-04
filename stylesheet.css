@@ -30,7 +30,7 @@ h1{
     display: flex;
     justify-content: center;
     text-align: left;
-    height: auto;
+    height: 85vh;
 }
 @media(max-width:800px) {
     .title{
